@@ -1,2 +1,2 @@
 # telegrams-statistics-
-Export statistic for telegram group chat 
+Export statistic from a telegram group chat and create wordcloud
